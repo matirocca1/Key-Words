@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Iniciar Sesión</title>
+    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/ico" href="IMG/keywords.png">
+    <script defer src="JS/baseDatos.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="container-fluid">
+    <div class="row ml-0">
+        <div class="col col-sm-12 col-md-8 offset-md-2 col-lg-4 offset-lg-4">
+            <div class="contenedor-form" id="crear__Cuenta">
+                <div class="formulario align-items-center">
+                    <h2 class="titulo_form text-center">Iniciar Sesión</h2>
+                    <form action="#">
+                        <div class="mb-3">
+                            <label for="usuario" class="form-label">Usuario</label>
+                            <input type="text" class="form-control" id="usuario">
+                        </div>
+                        <div class="mb-3">
+                            <label for="contraseña" class="form-label">Contraseña</label>
+                            <input type="password" class="form-control" id="contraseña">
+                        </div>
+                        <input class="boton_iniciar" id="boton_Inicio" type="submit" value="Iniciar Sesión" onclick="ingresar(event)">
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col col-sm-12 col-md-8 offset-md-2 col-lg-4 offset-lg-4">
+            <div class="formulario">
+                <h2 class="registro_form text-center">Registro</h2>
+                <form action="#">
+                    <label for="registroNombre" class="form-label">Nombre</label>
+                    <input type="text" class="form-control" id="registroNombre">
+                    <br>
+                    <label for="registroApellido" class="form-label">Apellido</label>
+                    <input type="text" class="form-control" id="registroApellido">
+                    <br>
+                    <label for="registroUsuario" class="form-label">Usuario</label>
+                    <input type="text" class="form-control" id="registroUsuario">
+                    <br>
+                    <label for="registroContraseña" class="form-label">Contraseña</label>
+                    <input type="password" class="form-control" id="registroContraseña">
+                    <br>
+                    <label for="registroMail" class="form-label">Correo Electronico</label>
+                    <input type="email" class="form-control" id="registroMail">
+                    <br>
+                    <input type="submit" class="boton_iniciar" id="boton_Registro" value="Registrarse" onclick="registrar(event)">
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+        <div class="reset-password">
+            <a href="#">Olvidaste tu contraseña?</a>
+        </div>
+
+
+</div>
+    <script src="JS/herramientas.js"></script>
+    <script defer src="JS/prueba.js"></script>
+    <script defer src="JS/login.js"></script>
+    <script defer src="JS/code.js"></script>
+</body>
+</html>

@@ -1,0 +1,398 @@
+[
+    {
+    "nombre": "HyperX Alloy FPS Pro" ,
+    "precio": 4599,
+    "Tipo":"Mecanico" ,
+    "uso":"Jugar" ,
+    "cherry": "Red",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/ba/a7/2f/baa72f9c0c602fb5c1dbc0d97f76b2de.jpg"
+    },
+
+    {
+    "nombre": "Corsair K70 Mk.2" ,
+    "precio": 4199,
+    "Tipo":"Mecanico" ,
+    "uso":"Jugar" ,
+    "cherry": "Red",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/d2/e3/e2/d2e3e2978f2f16c829d4f613579c1cf5.jpg"
+    },
+
+    {
+    "nombre": "Logitech G610 Orion" ,
+    "precio": 3899,
+    "Tipo":"Mecanico" ,
+    "uso":"Jugar" ,
+    "cherry": "Red",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/89/b7/ce/89b7ce423e9a744e202152f64c4b5aae.jpg"
+    },
+
+    {
+    "nombre": "Durgod Taurus K320" ,
+    "precio": 3999,
+    "Tipo":"Mecanico" ,
+    "uso":"Jugar" ,
+    "cherry": "Silent Red",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/90/78/47/907847bfeaebab9ec78e628979d4a60b.jpg"
+    },
+
+    {
+    "nombre": "Ducky One 2 Mini Pure White" ,
+    "precio": 3499,
+    "Tipo":"Mecanico" ,
+    "uso":"Jugar" ,
+    "cherry": "Red",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/fe/2a/7a/fe2a7a44e17fd61e001ed4e3c41c801d.jpg"
+    },
+
+    {
+    "nombre": "Redragon Kumara White K552W" ,
+    "precio": 2799,
+    "Tipo":"Mecanico" ,
+    "uso":"Jugar" ,
+    "cherry": "Red",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/0c/8a/56/0c8a562268026a4712b37b85966aff69.jpg"
+    },
+
+    {
+    "nombre": "Royal Kludge RK61" ,
+    "precio": 3599,
+    "Tipo":"Mecanico" ,
+    "uso":"Jugar" ,
+    "cherry": "Red",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/20/3a/c2/203ac2c51acacfe3e2d382949a16cb5c.jpg"
+    },
+
+    {
+    "nombre": "Nisuta NSKBGZ61" ,
+    "precio": 4199,
+    "Tipo":"Mecanico" ,
+    "uso":"Jugar" ,
+    "cherry": "Red",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/59/b2/1a/59b21afea5380e983a1a16d81bafbe49.jpg"
+    },
+
+
+
+
+    {
+    "nombre": "Ducky One 2 Skyline" ,
+    "precio": 2199,
+    "Tipo":"Mecanico" ,
+    "uso":"Programar" ,
+    "cherry": "White",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/77/0b/3a/770b3ace9785c94844387cac7397b4db.jpg"
+    },
+
+    {
+    "nombre": "KBParadise V80 Vintage" ,
+    "precio": 7699,
+    "Tipo":"Mecanico" ,
+    "uso":"Programar" ,
+    "cherry": "Green",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/12/70/9c/12709c9334a107549ef462fdc98861f1.jpg"
+    },
+
+    {
+    "nombre": "REALFORCE R2 PFU" ,
+    "precio": 4199,
+    "Tipo":"Mecanico" ,
+    "uso":"Programar" ,
+    "cherry": "Green",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/eb/a0/74/eba07459dac48f077845912bbf9587c9.jpg"
+    },
+
+    {
+    "nombre": "ROCCAT Vulcan 121" ,
+    "precio": 2399,
+    "Tipo":"Mecanico" ,
+    "uso":"Programar" ,
+    "cherry": "Green",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/ea/6a/f3/ea6af305c1a87c73e28aef40ea58a933.jpg"
+    },
+
+    {
+    "nombre": "Apple Magic" ,
+    "precio": 2399,
+    "Tipo":"Mecanico" ,
+    "uso":"Programar" ,
+    "cherry": "Green",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/a3/3a/02/a33a029dbd94eb5fb2a397359c20946b.jpg"
+    },
+
+    {
+    "nombre": "Microsoft Sculpt" ,
+    "precio": 3099,
+    "Tipo":"Mecanico" ,
+    "uso":"Programar" ,
+    "cherry": "Green",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/33/09/47/3309474c52ffc3ab24c97b3aaf3403ce.jpg"
+    },
+
+
+
+
+    {
+    "nombre": "Das Keyboard 4" ,
+    "precio": 2799,
+    "Tipo":"Mecanico" ,
+    "uso":"Escribir" ,
+    "cherry": "Blue",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/16/9b/df/169bdf9916dc2f46badef96c51116a1b.jpg"
+    },
+
+    {
+    "nombre": "HyperX Alloy Elite" ,
+    "precio": 2899,
+    "Tipo":"Mecanico" ,
+    "uso":"Escribir" ,
+    "cherry": "Blue",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/fc/81/6f/fc816f5c5dd85e2a21e0c4ed31c21e61.jpg"
+    },
+
+    {
+    "nombre": "Durgod HK Venus" ,
+    "precio": 3099,
+    "Tipo":"Mecanico" ,
+    "uso":"Escribir" ,
+    "cherry": "Blue",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/f2/0e/5d/f20e5db60bc51b35639598ebca41732f.jpg"
+    },
+
+    {
+    "nombre": "Logitech MX Keys" ,
+    "precio": 2699,
+    "Tipo":"Mecanico" ,
+    "uso":"Escribir" ,
+    "cherry": "Blue",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/25/8b/2c/258b2c50b17e6e46cb94e2ea9ba4b073.jpg"
+    },
+
+    {
+    "nombre": "Razer Pro Type" ,
+    "precio": 3099,
+    "Tipo":"Mecanico" ,
+    "uso":"Escribir" ,
+    "cherry": "Blue",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/1c/08/b4/1c08b4c274ba5900b3fd89a835fc4592.jpg"
+    },
+
+    {
+    "nombre": "Razer BlackWidow Elite" ,
+    "precio": 3399,
+    "Tipo":"Mecanico" ,
+    "uso":"Escribir" ,
+    "cherry": "Blue",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/67/08/af/6708afe087758468e0bbd98aec9c071b.jpg"
+    },
+
+    {
+    "nombre": "HHKB Professional HYBRID" ,
+    "precio": 2399,
+    "Tipo":"Mecanico" ,
+    "uso":"Escribir" ,
+    "cherry": "Blue",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/4f/a8/58/4fa85828e880c3ca473d36b14c997936.jpg"
+    },
+
+
+
+
+    {
+    "nombre": "Cooler Master TenKeyless" ,
+    "precio": 4000,
+    "Tipo":"Mecanico" ,
+    "uso":"Basico" ,
+    "cherry": "Brown",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/0b/8c/ef/0b8cef3acca9ed2c38aa3f94bba6e36a.jpg"
+    },
+
+    {
+    "nombre": "Redragon Dragonborn K630" ,
+    "precio": 3999,
+    "Tipo":"Mecanico" ,
+    "uso":"Basico" ,
+    "cherry": "Brown",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/04/8f/d7/048fd7f4177682bcc8a72f18495e2d6c.jpg"
+    },
+
+    {
+    "nombre": "Corsair K70 Lux" ,
+    "precio": 2899,
+    "Tipo":"Mecanico" ,
+    "uso":"Basico" ,
+    "cherry": "Brown",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/30/a3/a0/30a3a0a1877c3acafd350bf9625c0c47.jpg"
+    },
+
+    {
+    "nombre": "G.Skill Ripjaws KM570" ,
+    "precio": 3199,
+    "Tipo":"Mecanico" ,
+    "uso":"Basico" ,
+    "cherry": "Brown",
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/e6/e6/c6/e6e6c6472a75565f58ef3a25d3d16d84.jpg"
+    },
+
+    {
+    "nombre": "Akko 3108V2 Retro" ,
+    "precio": 3099,
+    "Tipo":"Mecanico" ,
+    "uso":"Basico" ,
+    "cherry": "Brown",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/originals/c2/57/a3/c257a38e2a31cf4ea15dad063b7e8c60.jpg"
+    },
+
+    {
+    "nombre": "Drevo Excalibur" ,
+    "precio": 3699,
+    "Tipo":"Mecanico" ,
+    "uso":"Basico" ,
+    "cherry": "Brown",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/d2/76/86/d27686463d324bfaef69eaef65eb41f7.jpg"
+    },
+
+    {
+    "nombre": "NZXT Shine 3" ,
+    "precio": 3199,
+    "Tipo":"Mecanico" ,
+    "uso":"Basico" ,
+    "cherry": "Brown",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/69/ee/7e/69ee7e5bd1fd257b3b7c04a595ba5367.jpg"
+    },
+
+    {
+    "nombre": "Razer Huntsman" ,
+    "precio": 3399,
+    "Tipo":"Mecanico" ,
+    "uso":"Basico" ,
+    "cherry": "Brown",
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/32/22/b6/3222b666569ac321c4e0c4b44136bd69.jpg"
+    },
+
+
+
+
+    {
+    "nombre": "Logitech K380" ,
+    "precio": 1399,
+    "Tipo":"Membrana" ,
+    "uso":"Basico" ,
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/18/f5/c6/18f5c64baed3b66b53671c57cb844bc5.jpg"
+    },
+
+    {
+    "nombre": "Redragon Shiva K512RGB" ,
+    "precio": 1799,
+    "Tipo":"Membrana" ,
+    "uso":"Jugar" ,
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/fc/b1/43/fcb14323718864279db8de9ddd2d2a00.jpg"
+    },
+
+    {
+    "nombre": "Redragon Harpe K503" ,
+    "precio": 1599,
+    "Tipo":"Membrana" ,
+    "uso":"Jugar" ,
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/e8/c8/2a/e8c82aef58cfdb8a33c0b91960b2dc2e.jpg"
+    },
+
+    {
+    "nombre": "Genius Gaming Scorpion" ,
+    "precio": 1428,
+    "Tipo":"Membrana" ,
+    "uso":"Jugar" ,
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/88/2c/0c/882c0ce12948ba79b6e3c8b32c9bd842.jpg"
+    },
+
+    {
+    "nombre": "Genius SlimStar 230" ,
+    "precio": 950,
+    "Tipo":"Membrana" ,
+    "uso":"Basico" ,
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/7d/75/f7/7d75f7bd3c26b6c34b902d2229efab5a.jpg"
+    },
+
+    {
+    "nombre": "HyperX Alloy Core" ,
+    "precio": 1599,
+    "Tipo":"Membrana" ,
+    "uso":"Jugar" ,
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/91/73/57/9173574250880c1357c017aa65b27ece.jpg"
+    },
+
+
+
+
+    {
+    "nombre": "Nisuta NSKBG5RL" ,
+    "precio": 2799,
+    "Tipo":"Semimecanico" ,
+    "uso":"Jugar" ,
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/be/63/cb/be63cbae2183eafef8ab61fa809ee122.jpg"
+    },
+
+    {
+    "nombre": "Trust Gaming GXT 860" ,
+    "precio": 3599,
+    "Tipo":"Semimecanico" ,
+    "uso":"Jugar" ,
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/e1/ae/f9/e1aef9a8a6b7fcf6f39d826c62e6ca4b.jpg"
+    },
+
+    {
+    "nombre": "Cooler Master Mk110" ,
+    "precio": 3199,
+    "Tipo":"Semimecanico" ,
+    "uso":"Jugar" ,
+    "color": "Negro",
+    "Image": "https://i.pinimg.com/564x/d9/0a/e5/d90ae5040beaa048ff974b049d63e106.jpg"
+    },
+
+    {
+    "nombre": "Trust Gaming YKT 120" ,
+    "precio": 2599,
+    "Tipo":"Semimecanico" ,
+    "uso":"Jugar" ,
+    "color": "Blanco",
+    "Image": "https://i.pinimg.com/564x/2d/8c/b8/2d8cb854d69407105060e34dde6629d6.jpg"
+    }
+
+
+]

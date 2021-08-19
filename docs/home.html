@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- META -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- ICONO -->
+    <link rel="icon" type="image/ico" href="IMG/keywords.png">
+
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+
+    <!-- FUENTES -->
+    <link href="//db.onlinewebfonts.com/c/01173b246d9d9ea808ea75a26b3b61bb?family=Circular+Spotify+Tx+T+Black" rel="stylesheet" type="text/css"/>
+    <!-- BOOTSTRAP -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <script src="https://kit.fontawesome.com/7d8b7861ff.js" crossorigin="anonymous"></script>
+
+    <title>Key Words</title>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+</head>
+<body>
+<button class="boton_iniciar float-right sticky-top mr-5"><a href="/index.html">Iniciar Sesion</a></button>
+<div class="container-fluid primero">
+    <span class="text1">Bienvenido a</span>
+    <span class="text2">Key Words</span>
+</div>
+
+
+<div class="container-fluid segundo">
+  <div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-2 col">
+      <div id="seccion1">
+        <H1 class="titulo_prin"> Key Words </H1>
+        <h2 class="bienvenido" id= "saludoUser">  </h2>
+        <header>
+            <nav>
+                <ul id="menu">
+                    <li><a href="">Inicio</a></li>
+                    <li><a href="#seccion2">Teclados</a></li>
+                    <li><a href="#AcercaDe">Acerca de nosotros</a></li>
+                    <li><a href="#contacto:id">Contacto</a></li>
+                  </ul>
+            </nav>
+        </header>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-10 text-center">
+      <div class="intro col-xs-12">
+        <p> Los teclados son periféricos imprescindibles para usar tu computadora.<br> Hay variedad de teclados, según su mecanismo, estilo e incluso color. Sabemos que es difícil decidirse por uno cuando hay cientos y miles, por eso estamos para ayudarte.<br> <b class="negrita">Key Words</b> te va a guiar a la mejor opción para ti. </p>
+      </div>
+
+      <div id="seccion2">
+        <h3 class="titulo">Te ayudamos a elegir tu teclado ideal</h3>
+
+        <button id="formulario_teclado" class="boton_iniciar mt-3" >Si quiero!</button>
+        <p id="form_mostrar"></p>
+
+        <form>
+          <div id="form" class="container text-center">
+
+
+            <label>Uso del teclado</label>
+            <select name="uso" id="uso">
+              <option value="Escribir">Escribir</option>
+              <option value="Jugar">Jugar</option>
+              <option value="Programar">Programar</option>
+              <option value="Basico">Uso básico</option>
+            </select>
+
+        <br><br>
+
+            <label>Color</label>
+            <select name="color" id="color">
+              <option value="Negro">Negro</option>
+              <option value="Blanco">Blanco</option>
+            </select>
+
+        <br><br>
+
+            <label>¿Cuál es el precio máximo que gastarías?</label>
+            <input type="numero" id="precio">
+
+        <br><br>
+
+            <input class="boton_enviar" type="submit" value="Enviar" id="enviar_form" onclick="tomardatos(event)">
+        </div>
+      </div>
+      </form>
+      <div class="container d-flex justify-content-between" id="seccion3">
+        <div  class="row" id="listaxprecio"></div>
+      </div>
+      <div class="acerca_de col col-sm-12 col-md-8 offset-md-2" id="AcercaDe">
+        <div class="titulo_acerca">
+          <h1>Acerca de nosotros</h1>
+        </div>
+        <div class="texto_acerca">
+          <h3> Con Key Words es muy fácil encontrar el teclado perfecto para ti desde tu computadora, tablet o telefono celular.</h3>
+          <h5 class="par2"> En Key Words tenemos cientos de opciones de teclado para todos los estilos, colores y mecanismos. Ya sea que lo que haces en el día a día sea escribir, jugar, programar o diseñar. Elige lo que hagas y nosotros te daremos lo perfecto para ti.</h5>
+          <div class="boton_acerca mb-10">
+            <a href="">Mas información</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="contacto col col-sm-12 col-md-6 offset-md-4" id="contacto:id">
+      <h3 class="mensaje_contacto">CONTACTA CON NOSOTROS</h3>
+
+      <div class="datos">
+        <input type="text" placeholder="Nombre" class="input">
+        <input type="email" placeholder="Email" class="input">
+      </div>
+
+      <div class="tema">
+        <input type="text" placeholder="Tema" class="input">
+      </div>
+
+      <div class="mensaje">
+        <textarea  class="area" placeholder="Mensaje"></textarea>
+      </div>
+
+      <div class="boton_div col-md-4 offset-md-4 col-sm-12">
+        <input type="submit" value="Enviar" class="contacto_boton">
+      </div>
+    </div>
+
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+<footer class="footer">
+  <div class="barra_abajo">
+    <div class="row">
+      <div class="footer-col">
+        <H1 class="titulo_prin"> Key Words </H1>
+      </div>
+      <div class="footer-col">
+        <h4>COMPAÑIA</h4>
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#seccion2">Teclados</a></li>
+          <li><a href="#AcercaDe">Acerca de nosotros</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>CONTACTO</h4>
+        <ul>
+          <li><a href="#contacto:id">Formulario</a></li>
+          <li><a href="#">Mail</a></li>
+          <li><a href="#">Soporte</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>INFORMACIÓN</h4>
+        <ul>
+          <li><a href="#">Politicas de privacidad</a></li>
+          <li><a href="#">Portal de noticias </a></li>
+          <li><a href="#">Comunidad</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <div class="social-links">
+          <a href="#"><i class="fab fa-facebook-f fa-lg"></i></a>
+          <a href="#"><i class="fab fa-instagram fa-lg"></i></a>
+          <a href="https://www.linkedin.com/in/matíasrocca/"><i class="fab fa-linkedin-in fa-lg"></i></a>
+        </div>
+        <h3 class="nombre_footer">©Matías Rocca <br> <i class="fas fa-globe-americas fa-sm"></i> Córdoba Argentina</h3>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+<script src="JS/herramientas.js"></script>
+<script src="JS/code.js"></script>
+<script src="JS/saludo.js"></script>
+</body>
+</html>
