@@ -27,7 +27,7 @@ const ingresar = (evento) =>{
         console.log(verificarUsuario(usuario, usuariosArray));
 
         setTimeout(()=>{
-            window.location='./home.html';   /* Esta funcion redirecciona a la pagina principal una vez que el nombre y la clave son validos  */
+            window.location='./index.html';   /* Esta funcion redirecciona a la pagina principal una vez que el nombre y la clave son validos  */
         },900);
 
     }else{
